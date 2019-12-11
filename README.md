@@ -1,6 +1,6 @@
 ### Terbine Static Location Map
 
-This project has several components, one to mine the data from Terbine, one to preprocess the data, and one to visualize the data on a world map.
+This project was a fun exercise that has several components, one to mine the data from Terbine, one to preprocess the data, and one to visualize the data on a world map.
 
 
 Map Specifications
