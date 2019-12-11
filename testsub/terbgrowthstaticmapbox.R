@@ -99,8 +99,8 @@ p <-  latlntable %>%
     name="poly",
     mode="markers", 
     type="scattermapbox",
-    lat=polylatfin,#polyllatall[162:257],#good:1-150, c(14.6541777,14.5854939,14.5299998,14.5332401,14.6541777),
-    lon=polylonfin,#polyllonall[162:257],#good:1-150, c(121.0346116,121.0747146,121.0151183,120.9805113,121.0344399),
+    lat=polylatfin,
+    lon=polylonfin,
     marker=list(
       color = "orange", 
       opacity = 0.4, 
@@ -138,5 +138,5 @@ p <-  latlntable %>%
   )
 
 p #for viewer
-#htmlwidgets::saveWidget(as_widget(p), "potestaticmapboxv1.3.html") #for widget
+htmlwidgets::saveWidget(as_widget(p), "potestaticmapboxv1.3.html") #for widget
 ###########################
