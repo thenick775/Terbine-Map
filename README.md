@@ -13,6 +13,8 @@ Tools Used:
 - Preprocessing of the data files was also done in python using a jupyter notebook.
 - The data visualization was accomplished using plotly and mapbox in R.
 
-To run and assemble the data, run the miner, then the formatting .ipynb, and then run the R script.
+To run and assemble the data, run the miner, then the formatting .ipynb, and then run the R script. 
+
+To launch this project, simply click potestaticmapboxv1.3.html and open it with your preferred browser.
 
 ![](mapex2.gif)
