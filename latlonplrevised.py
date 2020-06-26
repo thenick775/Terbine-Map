@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-#This script is designed to format the location strings
-#to a vector format suitable for plotly
+#This script is designed to gather names,
+#locations, and ingestion dates from terbine.io
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
