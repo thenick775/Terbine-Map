@@ -10,7 +10,7 @@ Map Specifications
 
 Tools Used:
 - Data mining was done using Selenium in conjunction with headless chrome.
-- Preprocessing of the data files was also done in python using a jupyter notebook.
+- Preprocessing of the data files was also done in python.
 - The data visualization was accomplished using plotly and mapbox in R.
 
 To run and assemble the data, run the miner, then the assemble_widget.sh to process and visualize the data. 
