@@ -18,4 +18,4 @@ All scripts expect to be run in the directory where the resulting files are plac
 
 To launch this project, simply click potestaticmapboxv1.4.html and open it with your preferred browser.
 
-![](mapex2.gif)
+![](mapex3v3.gif)
