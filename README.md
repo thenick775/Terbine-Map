@@ -16,6 +16,7 @@ Tools Used:
 To run and assemble the data, run the miner, then the assemble_widget.sh to process and visualize the data. 
 All scripts expect to be run in the directory where the resulting files are placed.
 
-To launch this project, simply click potestaticmapboxv1.4.html and open it with your preferred browser.
+To launch this project, you can potestaticmapboxv1.4.html and open it with your preferred browser,
+or you can [try it live!](https://raw.githack.com/thenick775/Terbine-Map/master/potestaticmapboxv1.4.html)
 
 ![](mapex3v3.gif)
